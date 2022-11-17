@@ -1,0 +1,15 @@
+C:\Users\Tanyusha\Desktop\Sem01_Programm\Exercise\Ex001_square\bin\Debug\net6.0\Ex001_square.exe
+C:\Users\Tanyusha\Desktop\Sem01_Programm\Exercise\Ex001_square\bin\Debug\net6.0\Ex001_square.deps.json
+C:\Users\Tanyusha\Desktop\Sem01_Programm\Exercise\Ex001_square\bin\Debug\net6.0\Ex001_square.runtimeconfig.json
+C:\Users\Tanyusha\Desktop\Sem01_Programm\Exercise\Ex001_square\bin\Debug\net6.0\Ex001_square.dll
+C:\Users\Tanyusha\Desktop\Sem01_Programm\Exercise\Ex001_square\bin\Debug\net6.0\Ex001_square.pdb
+C:\Users\Tanyusha\Desktop\Sem01_Programm\Exercise\Ex001_square\obj\Debug\net6.0\Ex001_square.csproj.AssemblyReference.cache
+C:\Users\Tanyusha\Desktop\Sem01_Programm\Exercise\Ex001_square\obj\Debug\net6.0\Ex001_square.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanyusha\Desktop\Sem01_Programm\Exercise\Ex001_square\obj\Debug\net6.0\Ex001_square.AssemblyInfoInputs.cache
+C:\Users\Tanyusha\Desktop\Sem01_Programm\Exercise\Ex001_square\obj\Debug\net6.0\Ex001_square.AssemblyInfo.cs
+C:\Users\Tanyusha\Desktop\Sem01_Programm\Exercise\Ex001_square\obj\Debug\net6.0\Ex001_square.csproj.CoreCompileInputs.cache
+C:\Users\Tanyusha\Desktop\Sem01_Programm\Exercise\Ex001_square\obj\Debug\net6.0\Ex001_square.dll
+C:\Users\Tanyusha\Desktop\Sem01_Programm\Exercise\Ex001_square\obj\Debug\net6.0\refint\Ex001_square.dll
+C:\Users\Tanyusha\Desktop\Sem01_Programm\Exercise\Ex001_square\obj\Debug\net6.0\Ex001_square.pdb
+C:\Users\Tanyusha\Desktop\Sem01_Programm\Exercise\Ex001_square\obj\Debug\net6.0\Ex001_square.genruntimeconfig.cache
+C:\Users\Tanyusha\Desktop\Sem01_Programm\Exercise\Ex001_square\obj\Debug\net6.0\ref\Ex001_square.dll
